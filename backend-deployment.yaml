@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: gcr.io/new-project-426217/my-python-app:latest
+        image: gcr.io/new-project-426217/backend:latest
         ports:
         - containerPort: 3000
         env:

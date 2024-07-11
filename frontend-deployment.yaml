@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: gcr.io/new-project-426217/my-nodejs-app:latest
+        image: gcr.io/new-project-426217/frontend:latest
         ports:
-        - containerPort: 3000
+        - containerPort: 80
