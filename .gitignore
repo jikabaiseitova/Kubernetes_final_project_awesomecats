@@ -1,1 +1,3 @@
 service-account-key.json
+tls.crt
+tls.key
